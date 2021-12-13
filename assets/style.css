@@ -10,6 +10,7 @@ html {
 
 body {
     font-family: 'Bad Script', cursive;
+    /* font-family: 'Berkshire Swash', cursive; */
     line-height: 1.65;
     
     display: flex;
