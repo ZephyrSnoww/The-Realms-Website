@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "602a1dfd49c3ff05",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc5d67a8ca08eba8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aee7eddf655bdc9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "552812141dc5e325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9fa08d4f36bfa18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d39d167d5a5daab2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e27b43a9d982cd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e730fc995a55ab6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "234f5e44ed4b3e6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bc5d67a8ca08eba8",
+  "lastOpenFiles": [
+    "index.md",
+    "notes/index.md"
+  ]
+}
