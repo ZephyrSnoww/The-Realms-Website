@@ -21,6 +21,8 @@ body {
 
     margin: 0 24px;
 
+    overflow: hidden;
+
     /* background-color: #223;
     color: #eee; */
     /* background-color: #223; */
@@ -78,7 +80,7 @@ content {
     /* display: block; */
     overflow-y: scroll;
     max-height: 70%;
-    max-width: 100%;
+    max-width: 90%;
     -ms-overflow-style: none;
     scrollbar-width: none;
 }
@@ -123,6 +125,7 @@ h1, h2, h3, h4, h5 {
   margin: 2.75rem 0 1.05rem;
   font-weight: 400;
   line-height: 1.15;
+  font-family: 'Berkshire Swash', cursive;
 }
 
 h1 {font-size: 3.052em;}
