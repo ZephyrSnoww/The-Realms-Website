@@ -1,4 +1,7 @@
 node_modules/
 _site/
-notes/.obsidian/
-!notes/.obsidian/app.json
+notes/.obsidian/appearance.json
+notes/.obsidian/core-plugins.json
+notes/.obsidian/hotkeys.json
+notes/.obsidian/workspace
+notes/.obsidian/graph.json
