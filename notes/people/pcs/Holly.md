@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ![[images/holly.png]]
 
 # Holly
