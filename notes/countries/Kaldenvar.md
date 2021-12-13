@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Kaldenvar
 ---
 
 # Kaldenvar
+
 ---
 
 Kaldenvar is the southern-most country and by far the coldest, being perpetually snowy year-round. Kaldenvar is the second largest by area, but has the smallest population. Its largest city, [[cities/Wolfden|Wolfden]], has only about 32,000 people.

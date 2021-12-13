@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Arkintine
 ---
 
 # Arkintine
+
 ---
 
 Arkintine is the smallest country by land area, but second in population, and is home to the worlds largest college. Arkintine's capital is [[cities/Strig|Strig]], and is where [[places/Dragonfir University|Dragonfir University]] resides. 1.5 million people live here, nearly 1/3rd of which live in Strig.

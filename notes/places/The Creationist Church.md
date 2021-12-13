@@ -1,7 +1,12 @@
 ---
 layout: default
+title: The Creationist Church
 ---
 
 # The Creationist Church
 
-#place 
+---
+
+placeholder
+
+#place

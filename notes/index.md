@@ -23,7 +23,9 @@ Due to the nature of the realm, one may only travel counter clockwise through th
 - [[outer realms/Daybreak|Daybreak]], the forest plane
 
 ## The "Main" Realm (?)
+
 ### [[countries/Kaldenvar|Kaldenvar]]
+
 - Southern country
 - Cold
 - Kaldenvar = "cold wolf den"
@@ -31,12 +33,14 @@ Due to the nature of the realm, one may only travel counter clockwise through th
 - Ruled over by [[people/npcs/Acer Frost|Queen Frost]]
 
 ### [[countries/Kirishimo|Kirishimo]]
+
 - Eastern country
 - Japanese-style architecture
 - Warmer, tropical climate
 - Foggy
 
 ### [[countries/Arkintine|Arkintine]]
+
 - North-eastern country
 - "Harvard the country"
 - Very magically inclined
@@ -46,10 +50,12 @@ Due to the nature of the realm, one may only travel counter clockwise through th
 - pretty sunsets
 
 ### [[countries/Unnamed 2]]
+
 - Northern country
 - Desert-y, egyptian-esque
 
 ### [[countries/Altapeth|Altapeth]]
+
 - Western country
 - A confederation of smaller states, under one federal gov. Kinda like the USA
 - Forested and kindof mountainous

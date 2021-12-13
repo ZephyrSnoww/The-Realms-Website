@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Acer Frost
 ---
 
 # Acer Frost
+
 ---
 
 Acer Frost is the queen of Kaldenvar. She is 121 and has been ruling since she was 23. Frost is one of two remaining members of the royal family, the other being her brother, [[people/npcs/Querius Frost|Querius Frost]].

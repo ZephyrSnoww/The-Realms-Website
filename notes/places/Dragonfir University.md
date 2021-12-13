@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Dragonfir University
 ---
 
 # Dragonfir University
+
 ---
 
 Dragonfir University is the largest college in the world with over 30,000 acres and more than 200,000 students. DU has a student to faculty ratio of 20:1 and is located in [[cities/Strig|Strig]], [[countries/Arkintine|Arkintine]].

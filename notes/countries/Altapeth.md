@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Altapeth
 ---
 
 # Altapeth
+
 ---
 
 Altapeth is the largest and most populous country by far. It's comprised of [[places/7 states|7 smaller states]], all of which are under the jurisdiction of [[people/npcs/To'an Tektil|Emperor Tektil]]. Each state has its own governor appointed by the Emperor.

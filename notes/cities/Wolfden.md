@@ -1,8 +1,11 @@
 ---
 layout: default
+title: Wolfden
 ---
 
 # Wolfden
+
+---
 
 Wolfden is the most populous city in [[countries/Kaldenvar|Kaldenvar]] with around 32,000 people. It lies on the coast, west of [[cities/Stormkeep|Stormkeep]], and to its south is [[places/Timberfall|Timberfall]], a massive alpine forest.
 

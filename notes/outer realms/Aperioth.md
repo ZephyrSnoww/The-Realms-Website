@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Aperioth
 ---
 
 # Aperioth
+
 ---
 
 Aperioth is a giant library with a book for everything which does, can, has, or will exist. No one knows who put them there in the first place or who takes care of it, but it's a common belief that there is an entity within the library which maintains it.

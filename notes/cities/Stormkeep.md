@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Stormkeep
 ---
 
 # Stormkeep
+
 ---
 
 Stormkeep is a stronghold built into a cliff face overlooking the [[places/Stormkeep Bay|Stormkeep Bay]]. It has tall, flat walls spanning the height of the cliffs and at its top sits a town of about 12,000 people. It stands over 120 meters tall, making it the tallest structure ever built.
