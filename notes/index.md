@@ -49,7 +49,7 @@ Due to the nature of the realm, one may only travel counter clockwise through th
 - Similar to Unnamed 1 in climate, sunnier
 - pretty sunsets
 
-### [[countries/Unnamed 2]]
+### [[countries/Desala]]
 
 - Northern country
 - Desert-y, egyptian-esque
