@@ -1,6 +1,6 @@
 ---
 layout: default
-title: countries
+title: Countries
 ---
 
 # Countries

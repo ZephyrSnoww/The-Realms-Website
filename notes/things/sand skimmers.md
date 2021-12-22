@@ -1,6 +1,6 @@
 ---
 layout: default
-title: sand skimmers
+title: Sand Skimmers
 ---
 
 # Sand Skimmers

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: the realms
+title: The Outer Realms
 ---
 
 # The Realms
