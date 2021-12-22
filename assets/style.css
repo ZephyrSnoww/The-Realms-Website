@@ -3,6 +3,19 @@
     --grey: #444;
 }
 
+@media (max-width: 800px), (max-height: 800px) {
+    main {
+        transform: none !important;
+        background: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    body {
+        background-image: url("./parchment\ texture\ transparent\ 4.png") !important;
+
+    }
+}
+
 html {
     font-size:  100%;
     scroll-behavior: smooth;
@@ -61,7 +74,7 @@ nav a {
 main {
     flex-grow: 1;
     max-width: 70ch;
-    /* width: 100%; */
+    width: 70ch;
     max-height: 90%;
     min-height: 90%;
     padding: 20px 100px;
