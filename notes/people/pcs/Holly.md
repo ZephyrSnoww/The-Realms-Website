@@ -9,7 +9,7 @@ title: Holly
 
 ---
 
-Holly is an orange, fluffy kobold, born on [date]. She grew up in [[Place]], until running away/being cast out at the age of 18. Since then, she has lived in the [[countries/Kaldenvar|Kalvarian]] wilderness, learning about the local flora and fauna, as well as learning wild magic.
+Holly is an orange, fluffy kobold, born on [month 12] 17th, 1252. She grew up in [[Place]], until running away/being cast out at the age of 18. Since then, she has lived in the [[countries/Kaldenvar|Kalvarian]] wilderness, learning about the local flora and fauna, as well as learning wild magic.
 
 ## Early Life
 
