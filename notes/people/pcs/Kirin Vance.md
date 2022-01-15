@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Holly
+title: Kirin
 ---
 
 # Kirin Vance
