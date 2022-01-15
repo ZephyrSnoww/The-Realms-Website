@@ -12,3 +12,5 @@ title: Kirin
 - 3 levels paladin 1 level rogue
 - human moment
 - he/him
+
+#person #pc

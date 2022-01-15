@@ -12,3 +12,5 @@ title: Glass
 - Strong silent type
 - Wants to figure themself out
 - uhm. yeah
+
+#person #pc

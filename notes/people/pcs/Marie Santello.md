@@ -14,3 +14,5 @@ title: Marie
 - Strong moral compass
 - Athiest cleric :0
 - Little bowler hat
+
+#person #pc

@@ -11,3 +11,5 @@ title: Alixxon
 - Gets excited about everything
 - Hair is just BOTW Link hair
 - ENBY TOMBOY
+
+#peron #pc

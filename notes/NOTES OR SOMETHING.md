@@ -1,5 +1,0 @@
-# Notes
----
-
-## Session numero uno
-- 
