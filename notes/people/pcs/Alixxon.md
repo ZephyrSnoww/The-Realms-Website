@@ -12,4 +12,4 @@ title: Alixxon
 - Hair is just BOTW Link hair
 - ENBY TOMBOY
 
-#peron #pc
+#person #pc
