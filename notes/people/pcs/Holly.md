@@ -13,11 +13,11 @@ Holly is an orange, fluffy kobold, born on [month 12] 17th, 1252. She grew up in
 
 ## Early Life
 
-Holly was born in [[Place]], on [month 12] 17th, 1252. Her mother, Jill, was a red kobold, and her father, Kyrin, was a brown kobold. Her parents ran a small, locally well-known bakery, which she helped run growing up. Her mother died on [month 14] 17th, 1266, when a band of marauders ran through the town, stealing supplies. Jill tried to defend the bakery, and was killed in the process. Holly and her father were left to rebuild, and worked hard to return the bakery to its former state, in honor of Jill.
+Holly was born in [[Place]], on [month 12] 17th, 1252. Her mother, Jill, was a red kobold, and her father, Kyrin, was a brown kobold. Her parents ran a small, locally well-known bakery, which she helped run growing up. Her mother died on [month 14] 23rd, 1266, when a band of marauders ran through the town, stealing supplies. Jill tried to defend the bakery, and was killed in the process. Holly and her father were left to rebuild, and worked hard to return the bakery to its former state, in honor of Jill.
 
 Holly started a secretive relationship with the local princess, [[Faith Glymja]]. The two met while hunting, and agreed to hunt together every couple days. Over time, the two fell in love.
 
-On [month 11] 17th, 1270, Holly was caught sneaking into the local castle. She had snuck in before, but was only caught this time because guard shifts had changed. The castle was on high alert for internal spies after hearing rumors, and Holly was banished from the town. Faith's pleadings were ignored, as everyone thought she had been tricked by the supposed spy.
+On [month 12] 17th, 1270, Holly was caught sneaking into the local castle. She had snuck in before, but was only caught this time because guard shifts had changed. The castle was on high alert for internal spies after hearing rumors, and Holly was banished from the town. Faith's pleadings were ignored, as everyone thought she had been tricked by the supposed spy.
 
 ## Current Life
 

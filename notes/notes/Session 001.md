@@ -67,6 +67,8 @@ title: Session 1
 		- She doesn't particularly like him but he's her boss, so
 		- He doesn't like the government, thinks the school should have more power
 
+---
+
 ## Retconned travel
 - ~~Then we continue following the trail~~
 - ~~Not very far from the village, we come across a big cave~~
